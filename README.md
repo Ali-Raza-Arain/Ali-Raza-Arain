@@ -1,4 +1,4 @@
-![Ali Raza Cover](./images/White.jpg)
+![Ali Raza Cover](./Images/White.jpg)
 <p align="center">
 Whatever I do, I do with perfection, Take work ethics very seriously, Love to lead people, Help them to achieve their goals, and consistently look for innovative something for improving the lives of people
 <br>
