@@ -9,5 +9,5 @@ Whatever I do, I do with perfection, Take work ethics very seriously, Love to le
  <!-- a href="https://github.com/Ali-Raza-Arain/" title="Ali Raza Arain"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a -->
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=ali445559391@gmail.com&su=&tf=cm" title="ali445559391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
  <br>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-raza-arain&left_color=black&right_color=darkGreen&left_text=Profile%20visitor" alt="Profile visitor"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-raza-arain&left_color=black&right_color=darkGreen&left_text=Profile%20visitors" alt="Profile visitors"/>
 </p>
