@@ -14,6 +14,11 @@
     </a>  
     <sub>LLM cost monitoring and budget protection tool</sub>
     <br/>
+    <a href="https://www.npmjs.com/package/fetch-smartly">
+        <sub><b>fetch-smartly</b></sub>
+    </a>  
+    <sub>Intelligent HTTP client with adaptive retries and network resilience</sub>
+    <br/>
     <a href="https://npm-analytics-hub.vercel.app">
         <sub><b>npm-analytics-hub</b></sub>
     </a>  
