@@ -1,7 +1,7 @@
 ![Ali Raza Cover](./Images/White.jpg)
 <h4 align="center">Software Engineer | Systems & AI Specialist</h4>
 <p align="center">Whatever I do, I do with perfection. I take work ethics very seriously, love to lead people, help them achieve their goals, and consistently look for innovative ways to improve lives.</p>
-<h4 align="center">Open Source & Projects</h4>
+<h4 align="center"><ins>Open Source & Projects</ins></h4>
 <!-- <p align="center">A collection of tools and systems I've built for developers and real-world use cases.</p> -->
 <p align="center">
     <a href="https://www.npmjs.com/package/proj-track">
