@@ -23,6 +23,11 @@
         <sub><b>npm-analytics-hub</b></sub>
     </a>  
     <sub>Visual analytics dashboard for NPM ecosystem insights</sub>
+    <br/>
+    <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
+    <sub><b>claude-status-line</b></sub>
+    </a>
+    <sub>Real-time insights for Claude Code workflows</sub>
     <br/><br/>
     <a href="https://www.linkedin.com/in/ali-raza-arain/" title="Ali Raza's LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
