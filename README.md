@@ -8,16 +8,19 @@
         <sub><b>proj-track</b></sub>
     </a>
     <sub>NPM package for project tracking and task organization</sub>
+    <!-- <img src="https://img.shields.io/npm/dt/proj-track?style=flat&color=blue&label=downloads" alt="downloads" /> -->
     <br/>
     <a href="https://www.npmjs.com/package/llm-spend-guard">
         <sub><b>llm-spend-guard</b></sub>
     </a>  
     <sub>LLM cost monitoring and budget protection tool</sub>
+    <!-- <img src="https://img.shields.io/npm/dt/llm-spend-guard?style=flat&color=blue&label=downloads" alt="downloads" /> -->
     <br/>
     <a href="https://www.npmjs.com/package/fetch-smartly">
         <sub><b>fetch-smartly</b></sub>
     </a>  
     <sub>Intelligent HTTP client with adaptive retries and network resilience</sub>
+    <!-- <img src="https://img.shields.io/npm/dt/fetch-smartly?style=flat&color=blue&label=downloads" alt="downloads" /> -->
     <br/>
     <a href="https://npm-analytics-hub.vercel.app">
         <sub><b>npm-analytics-hub</b></sub>
