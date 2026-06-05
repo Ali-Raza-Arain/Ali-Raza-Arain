@@ -102,7 +102,6 @@
                 <td align="center">
                     <img src="https://img.shields.io/github/v/release/Ali-Raza-Arain/claude-status-line?style=flat-square&label=release&color=0366d6" alt="release"/><br/>
                     <img src="https://img.shields.io/github/stars/Ali-Raza-Arain/claude-status-line?style=flat-square&label=stars&color=f5c518" alt="stars"/><br/>
-                    <img src="https://img.shields.io/github/license/Ali-Raza-Arain/claude-status-line?style=flat-square&label=license&color=gray" alt="license"/>
                 </td>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
