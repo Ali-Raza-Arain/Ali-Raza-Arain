@@ -1,37 +1,121 @@
 ![Ali Raza Cover](./Images/White.jpg)
-<h4 align="center">Software Engineer | Systems & AI Specialist</h4>
+<h3 align="center">Software Engineer | Systems & AI Specialist</h3>
 <p align="center">Whatever I do, I do with perfection. I take work ethics very seriously, love to lead people, help them achieve their goals, and consistently look for innovative ways to improve lives.</p>
 <h4 align="center"><ins>Open Source & Projects</ins></h4>
 <!-- <p align="center">A collection of tools and systems I've built for developers and real-world use cases.</p> -->
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th align="center">Project</th>
+                <th align="center">About</th>
+                <th align="center">Stats</th>
+                <th align="center">Quick Start</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" width="160">
+                    <a href="https://www.npmjs.com/package/proj-track">
+                        <img src="https://img.shields.io/badge/proj--track-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="proj-track"/>
+                    </a>
+                </td>
+                <td>
+                    <b>Project Tracking & Task Organization</b><br/>
+                    <sub>CLI tool for managing project milestones, tasks, and deadlines with structured workflows</sub>
+                </td>
+                <td align="center" width="200">
+                    <img src="https://img.shields.io/npm/v/proj-track?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
+                    <img src="https://img.shields.io/npm/dt/proj-track?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                </td>
+                <td align="center" width="200">
+                    <code>npm i proj-track</code>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.npmjs.com/package/llm-spend-guard">
+                        <img src="https://img.shields.io/badge/llm--spend--guard-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="llm-spend-guard"/>
+                    </a>
+                </td>
+                <td>
+                    <b>LLM Cost Monitoring & Budget Protection</b><br/>
+                    <sub>Track spending across AI providers, set budget limits, and get alerts before cost overruns</sub>
+                </td>
+                <td align="center">
+                    <img src="https://img.shields.io/npm/v/llm-spend-guard?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
+                    <img src="https://img.shields.io/npm/dt/llm-spend-guard?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                </td>
+                <td align="center">
+                    <code>npm i llm-spend-guard</code>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.npmjs.com/package/fetch-smartly">
+                        <img src="https://img.shields.io/badge/fetch--smartly-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="fetch-smartly"/>
+                    </a>
+                </td>
+                <td>
+                    <b>Intelligent HTTP Client</b><br/>
+                    <sub>Adaptive retries, circuit breaking, and network resilience for production-grade HTTP requests</sub>
+                </td>
+                <td align="center">
+                    <img src="https://img.shields.io/npm/v/fetch-smartly?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
+                    <img src="https://img.shields.io/npm/dt/fetch-smartly?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                </td>
+                <td align="center">
+                    <code>npm i fetch-smartly</code>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://npm-analytics-hub.vercel.app">
+                        <img src="https://img.shields.io/badge/npm--analytics--hub-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="npm-analytics-hub"/>
+                    </a>
+                </td>
+                <td>
+                    <b>NPM Analytics Dashboard</b><br/>
+                    <sub>Visual analytics and insights for the NPM ecosystem — explore package trends, downloads, and more</sub>
+                </td>
+                <td align="center">
+                    <img src="https://img.shields.io/badge/status-live-00c853?style=flat-square" alt="status"/><br/>
+                    <img src="https://img.shields.io/badge/platform-web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="platform"/>
+                </td>
+                <td align="center">
+                    <a href="https://npm-analytics-hub.vercel.app">
+                        <img src="https://img.shields.io/badge/Visit_App-▸-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="visit"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
+                        <img src="https://img.shields.io/badge/claude--status--line-181717?style=for-the-badge&logo=github&logoColor=white" alt="claude-status-line"/>
+                    </a>
+                </td>
+                <td>
+                    <b>Claude Code Workflow Insights</b><br/>
+                    <sub>Real-time status bar for Claude Code — monitor sessions, token usage, and task progress at a glance</sub>
+                </td>
+                <td align="center">
+                    <img src="https://img.shields.io/github/v/release/Ali-Raza-Arain/claude-status-line?style=flat-square&label=release&color=0366d6" alt="release"/><br/>
+                    <img src="https://img.shields.io/github/stars/Ali-Raza-Arain/claude-status-line?style=flat-square&label=stars&color=f5c518" alt="stars"/><br/>
+                    <img src="https://img.shields.io/github/license/Ali-Raza-Arain/claude-status-line?style=flat-square&label=license&color=gray" alt="license"/>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
+                        <img src="https://img.shields.io/badge/View_Repo-▸-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 <p align="center">
-    <a href="https://www.npmjs.com/package/proj-track">
-        <sub><b>proj-track</b></sub>
-    </a>
-    <sub>NPM package for project tracking and task organization</sub>
-    <!-- <img src="https://img.shields.io/npm/dt/proj-track?style=flat&color=blue&label=downloads" alt="downloads" /> -->
     <br/>
-    <a href="https://www.npmjs.com/package/llm-spend-guard">
-        <sub><b>llm-spend-guard</b></sub>
-    </a>  
-    <sub>LLM cost monitoring and budget protection tool</sub>
-    <!-- <img src="https://img.shields.io/npm/dt/llm-spend-guard?style=flat&color=blue&label=downloads" alt="downloads" /> -->
-    <br/>
-    <a href="https://www.npmjs.com/package/fetch-smartly">
-        <sub><b>fetch-smartly</b></sub>
-    </a>  
-    <sub>Intelligent HTTP client with adaptive retries and network resilience</sub>
-    <!-- <img src="https://img.shields.io/npm/dt/fetch-smartly?style=flat&color=blue&label=downloads" alt="downloads" /> -->
-    <br/>
-    <a href="https://npm-analytics-hub.vercel.app">
-        <sub><b>npm-analytics-hub</b></sub>
-    </a>  
-    <sub>Visual analytics dashboard for NPM ecosystem insights</sub>
-    <br/>
-    <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
-    <sub><b>claude-status-line</b></sub>
-    </a>
-    <sub>Real-time insights for Claude Code workflows</sub>
-    <br/><br/>
     <a href="https://www.linkedin.com/in/ali-raza-arain/" title="Ali Raza's LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
