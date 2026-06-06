@@ -100,8 +100,7 @@
                     <sub>Real-time status bar for Claude Code — monitor sessions, token usage, and task progress at a glance</sub>
                 </td>
                 <td align="center">
-                    <img src="https://img.shields.io/github/v/release/Ali-Raza-Arain/claude-status-line?style=flat-square&label=release&color=0366d6" alt="release"/><br/>
-                    <img src="https://img.shields.io/github/stars/Ali-Raza-Arain/claude-status-line?style=flat-square&label=stars&color=f5c518" alt="stars"/><br/>
+                    <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-success?style=flat-square" alt="platform"/><br/>
                 </td>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
