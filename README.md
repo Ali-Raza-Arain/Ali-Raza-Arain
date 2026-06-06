@@ -23,7 +23,7 @@
                 </td>
                 <td>
                     <b>Project Tracking & Task Organization</b><br/>
-                    <sub>CLI tool for managing project milestones, tasks, and deadlines with structured workflows</sub>
+                    <sub>Silently track every terminal command per project — auto-captured, filtered, and instantly replayable</sub>
                 </td>
                 <td align="center" width="200">
                     <img src="https://img.shields.io/npm/v/proj-track?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
@@ -41,7 +41,7 @@
                 </td>
                 <td>
                     <b>LLM Cost Monitoring & Budget Protection</b><br/>
-                    <sub>Track spending across AI providers, set budget limits, and get alerts before cost overruns</sub>
+                    <sub>Enforces real-time token budgets for OpenAI, Anthropic, and Gemini API calls</sub>
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/npm/v/llm-spend-guard?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
@@ -59,7 +59,7 @@
                 </td>
                 <td>
                     <b>Intelligent HTTP Client</b><br/>
-                    <sub>Adaptive retries, circuit breaking, and network resilience for production-grade HTTP requests</sub>
+                    <sub>Production-grade fetch wrapper that makes HTTP requests resilient, intelligent, and effortless</sub>
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/npm/v/fetch-smartly?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
@@ -97,7 +97,7 @@
                 </td>
                 <td>
                     <b>Claude Code Workflow Insights</b><br/>
-                    <sub>Real-time status bar for Claude Code — monitor sessions, token usage, and task progress at a glance</sub>
+                    <sub>Config-driven status line studio for Claude Code with TUI customization and 40+ widgets.</sub>
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-success?style=flat-square" alt="platform"/><br/>
