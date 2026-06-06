@@ -128,4 +128,5 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-raza-arain&left_color=black&right_color=darkGreen&left_text=Profile%20visitors" alt="Profile visitors"/>
     </a>
     <br/>
+    <img src="https://img.shields.io/badge/-awesome-484264?labelColor=bb99b4&logo=awesome-lists&logoColor=000000" alt="awesome"/>
 </p>
