@@ -81,7 +81,7 @@
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/badge/status-live-00c853?style=flat-square" alt="status"/><br/>
-                    <img src="https://img.shields.io/badge/platform-web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="platform"/>
+                    <img src="https://img.shields.io/badge/platform-web-4285F4?style=flat-square" alt="platform"/>
                 </td>
                 <td align="center">
                     <a href="https://npm-analytics-hub.vercel.app">
