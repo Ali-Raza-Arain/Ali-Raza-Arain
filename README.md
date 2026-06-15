@@ -100,11 +100,37 @@
                     <sub>Config-driven status line studio for Claude Code with TUI customization and 40+ widgets.</sub>
                 </td>
                 <td align="center">
-                    <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-success?style=flat-square" alt="platform"/><br/>
+                    <img src="https://img.shields.io/badge/Linux-supported-success?style=flat-square&logo=linux" alt="linux"/>
+                    <img src="https://img.shields.io/badge/macOS-supported-lightgrey?style=flat-square&logo=apple" alt="macos"/>
+                    <img src="https://img.shields.io/badge/Windows-supported-blue?style=flat-square&logo=windows" alt="windows"/><br/>
                 </td>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
                         <img src="https://img.shields.io/badge/View_Repo-▸-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://chromewebstore.google.com/detail/whatsapp-web-advanced-pri/abkkhidbijmidajpnkaogonidchpoknh">
+                        <img src="https://img.shields.io/badge/whatsapp--privacy-25D366?style=for-the-badge&logo=googlechrome&logoColor=white" alt="whatsapp-privacy"/>
+                    </a>
+                </td>
+                <td>
+                    <b>WhatsApp Web Advanced Privacy Suite</b><br/>
+                    <sub>Hide chats, blur messages, protect media previews, and add advanced privacy controls to WhatsApp Web</sub>
+                </td>
+                <td align="center">
+                   <img src="https://img.shields.io/badge/Chrome-Supported-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="chrome"/>
+                   <img src="https://img.shields.io/badge/Firefox-Supported-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="firefox"/><br/>
+                </td>
+                <td align="center">
+                    <a href="https://chromewebstore.google.com/detail/whatsapp-web-advanced-pri/abkkhidbijmidajpnkaogonidchpoknh">
+                        <img src="https://img.shields.io/badge/Add_to_Chrome-▸-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chrome"/>
+                    </a>
+                    <br/>
+                    <a href="https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-privacy-suite/">
+                        <img src="https://img.shields.io/badge/Add_to_Firefox-▸-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="firefox"/>
                     </a>
                 </td>
             </tr>
