@@ -23,7 +23,7 @@
                 </td>
                 <td>
                     <b>Project Tracking & Task Organization</b><br/>
-                    <sub>Silently track every terminal command per project — auto-captured, filtered, and instantly replayable</sub>
+                    <sub>Silently track every terminal command per project, auto-captured, filtered, and instantly replayable</sub>
                 </td>
                 <td align="center" width="200">
                     <img src="https://img.shields.io/npm/v/proj-track?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
@@ -77,7 +77,7 @@
                 </td>
                 <td>
                     <b>NPM Analytics Dashboard</b><br/>
-                    <sub>Visual analytics and insights for the NPM ecosystem — explore package trends, downloads, and more</sub>
+                    <sub>Visual analytics and insights for the NPM ecosystem, explore package trends, downloads, and more</sub>
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/badge/status-live-00c853?style=flat-square" alt="status"/><br/>
