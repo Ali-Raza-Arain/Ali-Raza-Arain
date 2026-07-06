@@ -89,27 +89,27 @@
                     </a>
                 </td>
             </tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
-            <img src="https://img.shields.io/badge/next--saas--starter-eb6b25?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-saas-starter"/>
-        </a>
-    </td>
-    <td>
-        <b>Production-Ready Next.js SaaS Boilerplate</b><br/>
-        <sub>Modern SaaS starter with Auth.js, Stripe subscriptions, Prisma, email authentication, and RBAC built to launch products faster</sub>
-    </td>
-    <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></br>
-        <img src="https://img.shields.io/badge/Prisma-6.19-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></br>
-        <img src="https://img.shields.io/badge/Stripe-17.x-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
-            <img src="https://img.shields.io/badge/View_Repo-▸-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
-        </a>
-    </td>
-</tr>
+            <tr>
+                <td align="center">
+                    <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
+                        <img src="https://img.shields.io/badge/next--saas-eb6b25?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-saas-starter"/>
+                    </a>
+                </td>
+                <td>
+                    <b>Production-Ready Next.js SaaS Boilerplate</b><br/>
+                    <sub>Modern SaaS starter with Auth.js, Stripe subscriptions, Prisma, email authentication, and RBAC built to launch products faster</sub>
+                </td>
+                <td align="center">
+                    <img src="https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></br>
+                    <img src="https://img.shields.io/badge/Prisma-6.19-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></br>
+                    <img src="https://img.shields.io/badge/Stripe-17.x-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
+                        <img src="https://img.shields.io/badge/View_Repo-▸-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+                    </a>
+                </td>
+            </tr>
             <tr>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
