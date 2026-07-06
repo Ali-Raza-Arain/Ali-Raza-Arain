@@ -27,7 +27,7 @@
                 </td>
                 <td align="center" width="200">
                     <img src="https://img.shields.io/npm/v/proj-track?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
-                    <img src="https://img.shields.io/npm/dt/proj-track?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                    <img src="https://img.shields.io/npm/dt/proj-track?style=flat-square&label=downloads&color=28a745" alt="downloads"/>
                 </td>
                 <td align="center" width="200">
                     <code>npm i proj-track</code>
@@ -45,7 +45,7 @@
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/npm/v/llm-spend-guard?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
-                    <img src="https://img.shields.io/npm/dt/llm-spend-guard?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                    <img src="https://img.shields.io/npm/dt/llm-spend-guard?style=flat-square&label=downloads&color=28a745" alt="downloads"/>
                 </td>
                 <td align="center">
                     <code>npm i llm-spend-guard</code>
@@ -63,7 +63,7 @@
                 </td>
                 <td align="center">
                     <img src="https://img.shields.io/npm/v/fetch-smartly?style=flat-square&label=version&color=0366d6" alt="version"/><br/>
-                    <img src="https://img.shields.io/npm/dt/fetch-smartly?style=flat-square&label=downloads&color=28a745" alt="downloads"/><br/>
+                    <img src="https://img.shields.io/npm/dt/fetch-smartly?style=flat-square&label=downloads&color=28a745" alt="downloads"/>
                 </td>
                 <td align="center">
                     <code>npm i fetch-smartly</code>
@@ -72,7 +72,7 @@
             <tr>
                 <td align="center">
                     <a href="https://npm-analytics-hub.vercel.app">
-                        <img src="https://img.shields.io/badge/npm--analytics--hub-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="npm-analytics-hub"/>
+                        <img src="https://img.shields.io/badge/npm--analytics--hub-564ee6?style=for-the-badge&logo=vercel&logoColor=white" alt="npm-analytics-hub"/>
                     </a>
                 </td>
                 <td>
@@ -89,20 +89,41 @@
                     </a>
                 </td>
             </tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
+            <img src="https://img.shields.io/badge/next--saas--starter-eb6b25?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-saas-starter"/>
+        </a>
+    </td>
+    <td>
+        <b>Production-Ready Next.js SaaS Boilerplate</b><br/>
+        <sub>Modern SaaS starter with Auth.js, Stripe subscriptions, Prisma, email authentication, and RBAC built to launch products faster</sub>
+    </td>
+    <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></br>
+        <img src="https://img.shields.io/badge/Prisma-6.19-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></br>
+        <img src="https://img.shields.io/badge/Stripe-17.x-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ali-Raza-Arain/next-saas-starter">
+            <img src="https://img.shields.io/badge/View_Repo-▸-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+        </a>
+    </td>
+</tr>
             <tr>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
-                        <img src="https://img.shields.io/badge/claude--status--line-181717?style=for-the-badge&logo=github&logoColor=white" alt="claude-status-line"/>
+                        <img src="https://img.shields.io/badge/claude--status--line-000000?style=for-the-badge&logo=github&logoColor=white" alt="claude-status-line"/>
                     </a>
                 </td>
                 <td>
                     <b>Claude Code Workflow Insights</b><br/>
-                    <sub>Config-driven status line studio for Claude Code with TUI customization and 40+ widgets.</sub>
+                    <sub>Config-driven status line studio for Claude Code with TUI customization and 40+ widgets</sub>
                 </td>
                 <td align="center">
-                    <img src="https://img.shields.io/badge/Linux-supported-success?style=flat-square&logo=linux" alt="linux"/>
-                    <img src="https://img.shields.io/badge/macOS-supported-lightgrey?style=flat-square&logo=apple" alt="macos"/>
-                    <img src="https://img.shields.io/badge/Windows-supported-blue?style=flat-square&logo=windows" alt="windows"/><br/>
+                    <img src="https://img.shields.io/badge/Linux-supported-success?style=flat-square&logo=linux" alt="linux"/><br/>
+                    <img src="https://img.shields.io/badge/macOS-supported-lightgrey?style=flat-square&logo=apple" alt="macos"/><br/>
+                    <img src="https://img.shields.io/badge/Windows-supported-blue?style=flat-square&logo=windows" alt="windows"/>
                 </td>
                 <td align="center">
                     <a href="https://github.com/Ali-Raza-Arain/claude-status-line">
@@ -121,8 +142,8 @@
                     <sub>Hide chats, blur messages, protect media previews, and add advanced privacy controls to WhatsApp Web</sub>
                 </td>
                 <td align="center">
-                   <img src="https://img.shields.io/badge/Chrome-Supported-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="chrome"/>
-                   <img src="https://img.shields.io/badge/Firefox-Supported-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="firefox"/><br/>
+                   <img src="https://img.shields.io/badge/Chrome-Supported-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="chrome"/><br/>
+                   <img src="https://img.shields.io/badge/Firefox-Supported-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="firefox"/>
                 </td>
                 <td align="center">
                     <a href="https://chromewebstore.google.com/detail/whatsapp-web-advanced-pri/abkkhidbijmidajpnkaogonidchpoknh">
