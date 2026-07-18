@@ -133,12 +133,12 @@
             </tr>
             <tr>
                 <td align="center">
-                    <a href="https://chromewebstore.google.com/detail/whatsapp-web-advanced-pri/abkkhidbijmidajpnkaogonidchpoknh">
+                    <a href="https://privacy-wa.vercel.app/">
                         <img src="https://img.shields.io/badge/whatsapp--privacy-25D366?style=for-the-badge&logo=googlechrome&logoColor=white" alt="whatsapp-privacy"/>
                     </a>
                 </td>
                 <td>
-                    <b>WhatsApp Web Advanced Privacy Suite</b><br/>
+                    <b>Privacy Suite Extension for WhatsApp Web</b><br/>
                     <sub>Hide chats, blur messages, protect media previews, and add advanced privacy controls to WhatsApp Web</sub>
                 </td>
                 <td align="center">
@@ -150,7 +150,7 @@
                         <img src="https://img.shields.io/badge/Add_to_Chrome-▸-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chrome"/>
                     </a>
                     <br/>
-                    <a href="https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-privacy-suite/">
+                    <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-suite-extension-for-wa/">
                         <img src="https://img.shields.io/badge/Add_to_Firefox-▸-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="firefox"/>
                     </a>
                 </td>
